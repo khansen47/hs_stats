@@ -1,0 +1,132 @@
+TGT	Druid	9	Aviana	Legendary	0	0
+TGT	Druid	8	Knight of the Wild	Rare	0	0
+TGT	Druid	4	Astral Communion	Epic	0	0
+TGT	Druid	4	Savage Combatant	Rare	0	0
+TGT	Druid	4	Wildwalker	Common	0	0
+TGT	Druid	3	Mulch	Epic	0	0
+TGT	Druid	2	Darnassus Aspirant	Rare	0	0
+TGT	Druid	2	Druid of the Saber	Common	0	0
+TGT	Druid	1	Living Roots	Common	0	0
+TGT	Hunter	7	Acidmaw	Legendary	0	0
+TGT	Hunter	6	Ball of Spiders	Rare	0	0
+TGT	Hunter	5	Ram Wrangler	Rare	0	0
+TGT	Hunter	3	Powershot	Rare	0	0
+TGT	Hunter	3	Dreadscale	Legendary	0	0
+TGT	Hunter	3	Stablemaster	Epic	0	0
+TGT	Hunter	2	Bear Trap	Common	0	0
+TGT	Hunter	2	Lock and Load	Epic	0	0
+TGT	Hunter	2	King's Elekk	Common	0	0
+TGT	Hunter	1	Brave Archer	Common	0	0
+TGT	Mage	8	Rhonin	Legendary	0	0
+TGT	Mage	6	Coldarra Drake	Epic	0	0
+TGT	Mage	5	Flame Lance	Common	0	0
+TGT	Mage	4	Dalaran Aspirant	Common	0	0
+TGT	Mage	3	Effigy	Rare	0	0
+TGT	Mage	3	Polymorph: Boar	Rare	0	0
+TGT	Mage	3	Spellslinger	Common	0	0
+TGT	Mage	2	Fallen Hero	Rare	0	0
+TGT Mage	1	Arcane Blast	Epic	0	0
+TGT Paladin	7	Eadric the Pure	Legendary	0	0
+TGT Paladin	6	Enter the Coliseum	Epic	0	0
+TGT Paladin	6	Mysterious Challenger	Epic	0	0
+TGT Paladin	5	Tuskarr Jouster	Rare	0	0
+TGT Paladin	4	Murloc Knight	Common	0	0
+TGT Paladin	3	Seal of Champions	Common	0	0
+TGT Paladin	3	Warhorse Trainer	Common	0	0
+TGT Paladin	2	Argent Lance	Rare	0	0
+TGT	Paladin	1	Competitive Spirit	Rare	0	0
+TGT	Priest	7	Confessor Paletress	Legendary	0	0
+TGT	Priest	4	Holy Champion	Common	0	0
+TGT	Priest	4	Spawn of Shadows	Rare	0	0
+TGT	Priest	3	Shadowfiend	Epic	0	0
+TGT	Priest	2	Confuse	Epic	0	0
+TGT	Priest	2	Convert	Rare	0	0
+TGT	Priest	2	Wyrmrest Agent	Rare	0	0
+TGT	Priest	1	Flash Heal	Common	0	0
+TGT	Priest	1	Power Word: Glory	Common	0	0
+TGT	Rogue	9	Anub'arak	Legendary	0	0
+TGT	Rogue	5	Shado-Pan Rider	Common	0	0
+TGT	Rogue	4	Poisoned Blade	Epic	0	0
+TGT	Rogue	3	Beneath the Grounds	Epic	0	0
+TGT	Rogue	3	Burgle	Rare	0	0
+TGT	Rogue	3	Shady Dealer	Rare	0	0
+TGT	Rogue	2	Cutpurse	Rare	0	0
+TGT	Rogue	2	Undercity Valiant	Common	0	0
+TGT	Rogue	1	Buccaneer	Common	0	0
+TGT	Shaman	6	The Mistcaller	Legendary	0	0
+TGT	Shaman	5	Thunder Bluff	Rare	0	0
+TGT	Shaman	4	Charged Hammer	Epic	0	0
+TGT	Shaman	4	Draenei Totemcarver	Rare	0	0
+TGT	Shaman	3	Elemental Destruction	Epic	0	0
+TGT	Shaman	3	Healing Wave	Rare	0	0
+TGT	Shaman	3	Tuskarr Totemic	Common	0	0
+TGT	Shaman	2	Ancestral Knowledge	Common	0	0
+TGT	Shaman	2	Totem Golem	Common	0	0
+TGT	Warlock	7	Fearsome Doomguard	Common	0	0
+TGT	Warlock	6	Dark Bargain	Epic	0	0
+TGT	Warlock	6	Void Crusher	Rare	0	0
+TGT	Warlock	6	Wilfred Fizzlebang	Legendary	0	0
+TGT	Warlock	5	Fist of Jaraxxus	Rare	0	0
+TGT	Warlock	5	Dreadsteed	Epic	0	0
+TGT	Warlock	2	Demonfuse	Common	0	0
+TGT	Warlock	2	Tiny Knight of Evil	Rare	0	0
+TGT	Warlock	2	Wrathguard	Common	0	0
+TGT	Warrior	10	Varian Wrynn	Legendary	0	0
+TGT	Warrior	6	Sea Reaver	Epic	0	0
+TGT	Warrior	4	Magnataur Alpha	Epic	0	0
+TGT	Warrior	3	King's Defender	Rare	0	0
+TGT	Warrior	3	Bash	Common	0	0
+TGT	Warrior	3	Orgrimmar Aspirant	Common	0	0
+TGT	Warrior	2	Bolster	Common	0	0
+TGT	Warrior	2	Alexstrasza's Champion	Rare	0	0
+TGT	Warrior	2	Sparring Partner	Rare	0	0
+TGT	Neutral	10	Frost Giant	Epic	0	0
+TGT	Neutral	9	Icehowl	Legendary	0	0
+TGT	Neutral	9	North Sea Kraken	Common	0	0
+TGT	Neutral	7	Captured Jormungar	Common	0	0
+TGT	Neutral	7	Chillmaw	Legendary	0	0
+TGT	Neutral	7	Skycap'n Kragg	Legendary	0	0
+TGT	Neutral	6	Bolf Ramshield	Legendary	0	0
+TGT	Neutral	6	Grand Crusader	Epic	0	0
+TGT	Neutral	6	Justicar Trueheart	Legendary	0	0
+TGT	Neutral	6	Kodorider	Epic	0	0
+TGT	Neutral	6	Master Jouster	Rare	0	0
+TGT	Neutral	6	Mogor's Champion	Rare	0	0
+TGT	Neutral	6	Sideshow Spelleater	Epic	0	0
+TGT	Neutral	6	The Skeleton Knight	Legendary	0	0
+TGT	Neutral	5	Clockwork Knight	Common	0	0
+TGT	Neutral	5	Kvaldir Raider	Common	0	0
+TGT	Neutral	5	Mukla's Champion	Common	0	0
+TGT	Neutral	5	Nexus-Champion Saraad	Legendary	0	0
+TGT	Neutral	5	Pit Fighter	Common	0	0
+TGT	Neutral	5	Recruiter	Epic	0	0
+TGT	Neutral	4	Armored Warhorse	Rare	0	0
+TGT	Neutral	4	Crowd Favorite	Epic	0	0
+TGT	Neutral	4	Evil Heckler	Common	0	0
+TGT	Neutral	4	Frigid Snobold	Common	0	0
+TGT	Neutral	4	Gormok the Impaler	Legendary	0	0
+TGT	Neutral	4	Maiden of the Lake	Common	0	0
+TGT	Neutral	4	Refreshment Vendor	Common	0	0
+TGT	Neutral	4	Tournament Medic	Common	0	0
+TGT	Neutral	4	Twilight Guardian	Epic	0	0
+TGT	Neutral	3	Argent Horserider	Common	0	0
+TGT	Neutral	3	Coliseum Manager	Rare	0	0
+TGT	Neutral	3	Dragonhawk Rider	Common	0	0
+TGT	Neutral	3	Eydis Darkbane	Legendary	0	0
+TGT	Neutral	3	Fencing Coach	Rare	0	0
+TGT	Neutral	3	Fjola Lightbane	Legendary	0	0
+TGT	Neutral	3	Ice Rager	Common	0	0
+TGT	Neutral	3	Light's Champion	Rare	0	0
+TGT	Neutral	3	Master of Ceremonies	Epic	0	0
+TGT	Neutral	3	Saboteur	Rare	0	0
+TGT	Neutral	3	Silent Knight	Common	0	0
+TGT	Neutral	3	Silver Hand Regent	Common	0	0
+TGT	Neutral	2	Argent Watchman	Rare	0	0
+TGT	Neutral	2	Boneguard Lieutenant	Common	0	0
+TGT	Neutral	2	Flame Juggler	Common	0	0
+TGT	Neutral	2	Garrison Commander	Epic	0	0
+TGT	Neutral	2	Lance Carrier	Common	0	0
+TGT	Neutral	1	Gadgetzan Jouster	Common	0	0
+TGT	Neutral	1	Injured Kvaldir	Rare	0	0
+TGT	Neutral	1	Lowly Squire	Common	0	0
+TGT	Neutral	1	Tournament Attendee	Common	0	0

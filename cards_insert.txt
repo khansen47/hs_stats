@@ -1,0 +1,535 @@
+Classic	Neutral	1	Elven Archer	Basic	2	2
+Classic	Neutral	1	Goldshire Footman	Basic	2	2
+Classic	Neutral	1	Grimscale Oracle	Basic	2	0
+Classic	Neutral	1	Murloc Raider	Basic	2	2
+Classic	Neutral	1	Stonetusk Boar	Basic	2	2
+Classic	Neutral	1	Voodoo Doctor	Basic	2	0
+Classic	Neutral	2	Acidic Swamp Ooze	Basic	2	0
+Classic	Neutral	2	Bloodfen Raptor	Basic	2	2
+Classic	Neutral	2	Bluegill Warrior	Basic	2	2
+Classic	Neutral	2	Frostwolf Grunt	Basic	2	2
+Classic	Neutral	2	Kobold Geomancer	Basic	2	0
+Classic	Neutral	2	Murloc Tidehunter	Basic	2	0
+Classic	Neutral	2	Novice Engineer	Basic	2	2
+Classic	Neutral	2	River Crocolisk	Basic	2	2
+Classic	Neutral	3	Dalaran Mage	Basic	2	0
+Classic	Neutral	3	Ironforge Rifleman	Basic	2	0
+Classic	Neutral	3	Ironfur Grizzly	Basic	2	2
+Classic	Neutral	3	Magma Rager	Basic	2	2
+Classic	Neutral	3	Raid Leader	Basic	2	0
+Classic	Neutral	3	Razorfen Hunter	Basic	2	2
+Classic	Neutral	3	Shattered Sun Cleric	Basic	2	2
+Classic	Neutral	3	Silverback Patriarch	Basic	2	0
+Classic	Neutral	3	Wolfrider	Basic	2	0
+Classic	Neutral	4	Chillwind Yeti	Basic	2	0
+Classic	Neutral	4	Dragonling Mechanic	Basic	2	2
+Classic	Neutral	4	Gnomish Inventor	Basic	2	2
+Classic	Neutral	4	Oasis Snapjaw	Basic	2	2
+Classic	Neutral	4	Ogre Magi	Basic	2	0
+Classic	Neutral	4	Sen'jin Shieldmasta	Basic	2	0
+Classic	Neutral	4	Stormwind Knight	Basic	2	2
+Classic	Neutral	5	Booty Bay Bodyguard	Basic	2	2
+Classic	Neutral	5	Darkscale Healer	Basic	2	2
+Classic	Neutral	5	Frostwolf Warlord	Basic	2	2
+Classic	Neutral	5	Gurubashi Berserker	Basic	2	0
+Classic	Neutral	5	Nightblade	Basic	2	2
+Classic	Neutral	5	Stormpike Commando	Basic	2	2
+Classic	Neutral	6	Archmage	Basic	2	0
+Classic	Neutral	6	Boulderfist Ogre	Basic	2	2
+Classic	Neutral	6	Lord of the Arena	Basic	2	2
+Classic	Neutral	6	Reckless Rocketeer	Basic	2	2
+Classic	Neutral	7	Core Hound	Basic	2	2
+Classic	Neutral	7	Stormwind Champion	Basic	2	2
+Classic	Neutral	7	War Golem	Basic	2	0
+Classic	Neutral	0	Wisp	Common	2	0
+Classic	Neutral	1	Abusive Sergeant	Common	2	0
+Classic	Neutral	1	Argent Squire	Common	2	0
+GvG	Neutral	1	Clockwork Gnome	Common	2	0
+GvG	Neutral	1	Cogmaster	Common	2	0
+Classic	Neutral	1	Leper Gnome	Common	2	0
+Classic	Neutral	1	Shieldbearer	Common	2	0
+Classic	Neutral	1	Southsea Deckhand	Common	2	0
+Naxx	Neutral	1	Undertaker	Common	2	0
+Classic	Neutral	1	Worgen Infiltrator	Common	2	0
+Classic	Neutral	1	Young Dragonhawk	Common	2	0
+Naxx	Neutral	1	Zombie Chow	Common	2	0
+Classic	Neutral	2	Amani Berserker	Common	2	2
+GvG	Neutral	2	Annoy-o-Troy	Common	2	1
+Classic	Neutral	2	Bloodsail Raider	Common	2	0
+Classic	Neutral	2	Dire Wolf Alpha	Common	2	0
+GvG	Neutral	2	Explosive Sheep	Common	2	0
+Classic	Neutral	2	Faerie Dragon	Common	2	2
+GvG	Neutral	2	Gilblin Stalker	Common	2	0
+Naxx	Neutral	2	Haunted Creeper	Common	2	0
+Classic	Neutral	2	Ironbeak Owl	Common	2	0
+Classic	Neutral	2	Loot Hoarder	Common	2	1
+Classic	Neutral	2	Mad Bomber	Common	2	0
+Naxx	Neutral	2	Mad Scientist	Common	2	0
+GvG	Neutral	2	Mechwarper	Common	2	0
+GvG	Neutral	2	Micro Machine	Common	2	0
+Naxx	Neutral	2	Nerub'ar Weblord	Common	2	0
+GvG	Neutral	2	Puddlestomper	Common	2	0
+GvG	Neutral	2	Ship's Cannon	Common	2	0
+GvG	Neutral	2	Stonesplinter Trogg	Common	2	0
+Naxx	Neutral	2	Unstable Ghoul	Common	2	0
+Classic	Neutral	2	Youthful Brewmaster	Common	2	0
+Classic	Neutral	3	Acolyte of Pain	Common	2	0
+Naxx	Neutral	3	Dancing Swords	Common	2	0
+Classic	Neutral	3	Earthen Ring Farseer	Common	2	0
+Classic	Neutral	3	Flesheating Ghoul	Common	2	0
+GvG	Neutral	3	Flying Machine	Common	2	1
+GvG	Neutral	3	Gnomeregan Infantry	Common	2	0
+Classic	Neutral	3	Harvest Golem	Common	2	0
+Classic	Neutral	3	Jungle Panther	Common	2	0
+Classic	Neutral	3	Ogre Brute	Common	2	0
+Classic	Neutral	3	Raging Worgen	Common	2	1
+Classic	Neutral	3	Scarlet Crusader	Common	2	1
+GvG	Neutral	3	Spider Tank	Common	2	0
+Naxx	Neutral	3	Stoneskin Gargoyle	Common	2	0
+Classic	Neutral	3	Tauren Warrior	Common	2	0
+Classic	Neutral	3	Thrallmar Farseer	Common	2	0
+GvG	Neutral	3	Tinkertown Technician	Common	2	0
+Classic	Neutral	4	Ancient Brewmaster	Common	2	0
+GvG	Neutral	4	Burly Rockjaw Trogg	Common	2	0
+Classic	Neutral	4	Cult Master	Common	2	2
+Classic	Neutral	4	Dark Iron Dwarf	Common	2	0
+Classic	Neutral	4	Dread Corsair	Common	2	1
+GvG	Neutral	4	Lost Tallstrider	Common	2	0
+GvG	Neutral	4	Mechanical Yeti	Common	2	0
+Classic	Neutral	4	Mogu'shan Warden	Common	2	0
+GvG	Neutral	4	Piloted Shredder	Common	2	0
+Classic	Neutral	4	Silvermoon Guardian	Common	2	0
+Classic	Neutral	4	Spellbreaker	Common	2	0
+GvG	Neutral	5	Antique Healbot	Common	2	0
+Classic	Neutral	5	Fen Creeper	Common	2	0
+GvG	Neutral	5	Salty Dog	Common	2	1
+Classic	Neutral	5	Silver Hand Knight	Common	2	0
+Naxx	Neutral	5	Spectral Knight	Common	2	0
+Classic	Neutral	5	Spiteful Smith	Common	2	1
+Classic	Neutral	5	Stranglethorn Tiger	Common	2	0
+Classic	Neutral	5	Venture Co. Mercenary	Common	2	0
+Classic	Neutral	6	Frost Elemental	Common	2	0
+Classic	Neutral	6	Priestess of Elune	Common	2	0
+Classic	Neutral	6	Windfury Harpy	Common	2	0
+GvG	Neutral	8	Force-Tank MAX	Common	2	0
+GvG	Neutral	0	Target Dummy	Rare	2	0
+Classic	Neutral	1	Angry Chicken	Rare	2	0
+Classic	Neutral	1	Bloodsail Corsair	Rare	2	0
+Classic	Neutral	1	Lightwarden	Rare	2	1
+Classic	Neutral	1	Murloc Tidecaller	Rare	2	0
+Classic	Neutral	1	Secretkeeper	Rare	2	0
+Classic	Neutral	1	Young Priestess	Rare	2	1
+Classic	Neutral	2	Ancient Watcher	Rare	2	1
+Classic	Neutral	2	Crazed Alchemist	Rare	2	0
+Classic	Neutral	2	Knife Juggler	Rare	2	0
+Classic	Neutral	2	Mana Addict	Rare	2	0
+Classic	Neutral	2	Mana Wraith	Rare	2	0
+Classic	Neutral	2	Master Swordsmith	Rare	1	1
+Naxx	Neutral	2	Nerubian Egg	Rare	2	0
+Classic	Neutral	2	Pint-Sized Summoner	Rare	2	0
+Classic	Neutral	2	Sunfury Protector	Rare	2	0
+Classic	Neutral	2	Wild Pyromancer	Rare	2	0
+Classic	Neutral	3	Alarm-o-Bot	Rare	2	1
+Classic	Neutral	3	Arcane Golem	Rare	2	0
+Classic	Neutral	3	Coldlight Oracle	Rare	2	0
+Classic	Neutral	3	Coldlight Seer	Rare	2	0
+Naxx	Neutral	3	Deathlord	Rare	2	0
+Classic	Neutral	3	Demolisher	Rare	2	0
+Classic	Neutral	3	Emperor Cobra	Rare	2	0
+GvG	Neutral	3	Gnomish Experimenter	Rare	2	0
+GvG	Neutral	3	Goblin Sapper	Rare	2	1
+GvG	Neutral	3	Illuminator	Rare	2	0
+Classic	Neutral	3	Imp Master	Rare	2	0
+Classic	Neutral	3	Injured Blademaster	Rare	2	1
+GvG	Neutral	3	Lil' Exorcist	Rare	2	1
+Classic	Neutral	3	Mind Control Tech	Rare	2	1
+Classic	Neutral	3	Questing Adventurer	Rare	2	1
+Classic	Neutral	4	Ancient Mage	Rare	2	0
+GvG	Neutral	4	Arcane Nullifier X-21	Rare	2	0
+Classic	Neutral	4	Defender of Argus	Rare	2	0
+GvG	Neutral	4	Jeeves	Rare	2	0
+GvG	Neutral	4	Kezan Mystic	Rare	2	0
+Classic	Neutral	4	Twilight Drake	Rare	2	1
+Classic	Neutral	4	Violet Teacher	Rare	2	0
+Naxx	Neutral	4	Wailing Soul	Rare	2	0
+Classic	Neutral	5	Abomination	Rare	2	1
+Classic	Neutral	5	Azure Drake	Rare	2	0
+GvG	Neutral	5	Bomb Lobber	Rare	2	0
+GvG	Neutral	5	Madder Bomber	Rare	1	0
+Naxx	Neutral	5	Sludge Belcher	Rare	2	0
+Classic	Neutral	5	Stampeding Kodo	Rare	2	0
+Classic	Neutral	6	Argent Commander	Rare	2	0
+Classic	Neutral	6	Gadgetzan Auctioneer	Rare	2	0
+Classic	Neutral	6	Sunwalker	Rare	2	1
+Classic	Neutral	7	Ravenholdt Assassin	Rare	2	0
+Classic	Neutral	1	Hungry Crab	Epic	2	0
+Classic	Neutral	2	Captain's Parrot	Epic	0	0
+Classic	Neutral	2	Doomsayer	Epic	2	0
+Naxx	Neutral	2	Echoing Ooze	Epic	2	0
+GvG	Neutral	2	Recombobulator	Epic	2	0
+Classic	Neutral	3	Big Game Hunter	Epic	1	0
+Classic	Neutral	3	Blood Knight	Epic	2	0
+GvG	Neutral	3	Hobgoblin	Epic	2	0
+Classic	Neutral	3	Murloc Warleader	Epic	2	0
+Naxx	Neutral	3	Shade of Naxxramas	Epic	2	0
+Classic	Neutral	3	Southsea Captain	Epic	2	0
+GvG	Neutral	4	Enhance-o Machano	Epic	1	0
+GvG	Neutral	4	Mini-Mage	Epic	1	0
+Classic	Neutral	5	Faceless Manipulator	Epic	1	0
+GvG	Neutral	5	Fel Reaver	Epic	2	0
+GvG	Neutral	5	Junkbot	Epic	0	0
+GvG	Neutral	6	Piloted Sky Golem	Epic	2	0
+Classic	Neutral	10	Sea Giant	Epic	1	1
+GvG	Neutral	12	Clockwork Giant	Epic	0	0
+Classic	Neutral	12	Mountain Giant	Epic	2	0
+Classic	Neutral	20	Molten Gian	Epic	2	0
+Classic	Neutral	2	Bloodmage Thalnos	Legendary	1	0
+Classic	Neutral	2	Lorewalker Cho	Legendary	0	1
+Classic	Neutral	2	Millhouse Manastorm	Legendary	0	0
+Classic	Neutral	2	Nat Pagle	Legendary	1	0
+Classic	Neutral	3	King Mukla	Legendary	0	0
+Classic	Neutral	3	Tinkmaster Overspark	Legendary	1	0
+Naxx	Neutral	4	Baron Rivendare	Legendary	1	0
+Classic	Neutral	4	Leeroy Jenkins	Legendary	1	0
+Classic	Neutral	4	Old Murk-Eye	Legendary	1	0
+GvG	Neutral	5	Blingtron 3000	Legendary	1	0
+Classic	Neutral	5	Captain Greenskin	Legendary	0	0
+Classic	Neutral	5	Elite Tauren Chieftan	Legendary	0	0
+Naxx	Neutral	5	Feugen	Legendary	1	0
+Classic	Neutral	5	Harrison Jones	Legendary	0	0
+GvG	Neutral	5	Hemet Nesingwary	Legendary	0	0
+GvG	Neutral	5	Mimiron's Head	Legendary	0	0
+Naxx	Neutral	5	Loatheb	Legendary	1	0
+Naxx	Neutral	5	Stalagg	Legendary	1	0
+Classic	Neutral	6	Cairne Bloodhoof	Legendary	1	0
+GvG	Neutral	6	Gazlowe	Legendary	0	0
+Classic	Neutral	6	Gelbin Mekkatorque	Legendary	0	1
+Classic	Neutral	6	Hogger	Legendary	0	0
+Classic	Neutral	6	Illidan Stormrage	Legendary	1	0
+Naxx	Neutral	6	Maexxna	Legendary	1	0
+GvG	Neutral	6	Mogor the Ogre	Legendary	0	0
+Classic	Neutral	6	Sylvanas Windrunner	Legendary	1	0
+Classic	Neutral	6	The Beast	Legendary	0	0
+Classic	Neutral	6	The Black Knight	Legendary	1	0
+GvG	Neutral	6	Toshley	Legendary	1	0
+Classic	Neutral	7	Baron Geddon	Legendary	0	0
+GvG	Neutral	7	Dr. Boom	Legendary	1	0
+GvG	Neutral	7	Troggzor the Earthinator	Legendary	0	0
+GvG	Neutral	8	Foe Reaper 4000	Legendary	1	0
+Classic	Neutral	8	Gruul	Legendary	0	0
+Naxx	Neutral	8	Kel'Thuzad	Legendary	1	0
+Classic	Neutral	8	Ragnaros the Firelord	Legendary	1	0
+GvG	Neutral	8	Sneed's Old Shredder	Legendary	0	0
+Classic	Neutral	9	Alexstrasza	Legendary	1	0
+Classic	Neutral	9	Malygos	Legendary	1	0
+GvG	Neutral	9	Mekgineer Thermaplugg	Legendary	0	0
+Classic	Neutral	9	Nozdormu	Legendary	0	0
+Classic	Neutral	9	Onyxia	Legendary	0	0
+Classic	Neutral	9	Ysera	Legendary	1	0
+Classic	Neutral	10	Deathwing	Legendary	0	0
+Classic	Druid	0	Innervate	Basic	2	2
+Classic	Druid	0	Moonfire	Basic	2	2
+Classic	Druid	1	Claw	Basic	2	2
+Classic	Druid	2	Mark of the Wild	Basic	2	2
+Classic	Druid	2	Wild Growth	Basic	2	2
+Classic	Druid	3	Healing Touch	Basic	2	2
+Classic	Druid	3	Savage Roar	Basic	2	2
+Classic	Druid	4	Swipe	Basic	2	2
+Classic	Druid	6	Starfire	Basic	2	2
+Classic	Druid	8	Ironbark Protector	Basic	2	2
+Classic	Druid	1	Naturalize	Common	2	1
+Classic	Druid	2	Power of the Wild	Common	2	1
+Classic	Druid	2	Wrath	Common	2	0
+Classic	Druid	2	Anodized Robo Cub	Common	2	1
+Classic	Druid	3	Mark of Nature	Common	2	0
+Naxx	Druid	4	Poison Seeds	Common	2	0
+Classic	Druid	4	Soul of the Forest	Common	2	2
+Classic	Druid	5	Druid of the Claw	Common	2	0
+Classic	Druid	5	Druid of the Fang	Common	2	0
+Classic	Druid	1	Savagery	Rare	2	0
+Classic	Druid	3	Grove Tender	Rare	2	0
+Classic	Druid	4	Bite	Rare	2	0
+Classic	Druid	4	Keeper of the Grove	Rare	2	0
+Classic	Druid	5	Nourish	Rare	2	0
+Classic	Druid	5	Starfall	Rare	2	0
+Classic	Druid	6	Recycle	Rare	2	0
+Classic	Druid	6	Mech-Bear-Cat	Rare	1	0
+GvG	Druid	6	Dark Wispers	Epic	1	0
+Classic	Druid	6	Force of Nature	Epic	2	0
+Classic	Druid	7	Ancient of Lore	Epic	2	0
+Classic	Druid	7	Ancient of War	Epic	2	0
+GvG	Druid	9	Tree of Life	Epic	2	0
+GvG	Druid	7	Malorne	Legendary	0	0
+Classic	Druid	9	Cenarius	Legendary	0	0
+Classic	Hunter	0	Hunter's Mark	Basic	2	2
+Classic	Hunter	1	Arcane Shot	Basic	2	2
+Classic	Hunter	1	Tracking	Basic	2	2
+Classic	Hunter	1	Timber Wolf	Basic	2	2
+Classic	Hunter	3	Animal Companion	Basic	2	2
+Classic	Hunter	3	Kill Command	Basic	2	2
+Classic	Hunter	4	Multi-Shot	Basic	2	2
+Classic	Hunter	4	Houndmaster	Basic	2	2
+Classic	Hunter	5	Starving Buzzard	Basic	2	2
+Classic	Hunter	5	Tundra Rhino	Basic	2	2
+Naxx	Hunter	1	Webspinner	Common	2	0
+Classic	Hunter	2	Glaivezooka	Common	2	1
+Classic	Hunter	2	Explosive Trap	Common	2	0
+Classic	Hunter	2	Freezing Trap	Common	2	2
+Classic	Hunter	2	Snipe	Common	2	0
+Classic	Hunter	2	Scavenging Hyena	Common	2	0
+Classic	Hunter	3	Deadly Shot	Common	2	0
+Classic	Hunter	4	Unleash the Hounds	Common	2	0
+GvG	Hunter	5	Cobra Shot	Common	2	1
+GvG	Hunter	2	Call Pet	Rare	2	0
+Classic	Hunter	2	Flare	Rare	2	0
+Classic	Hunter	2	Misdirection	Rare	2	1
+Classic	Hunter	3	Eaglehorn Bow	Rare	2	0
+Classic	Hunter	3	Metaltooth Leaper	Rare	2	0
+Classic	Hunter	5	Explosive Shot	Rare	2	0
+Classic	Hunter	5	King of Beasts	Rare	2	0
+Classic	Hunter	6	Savannah Highmane	Rare	2	0
+Classic	Hunter	1	Bestial Wrath	Epic	0	0
+GvG	Hunter	2	Feign Death	Epic	2	0
+Classic	Hunter	2	Snake Trap	Epic	2	0
+GvG	Hunter	2	Steamwheedle Sniper	Epic	1	0
+Classic	Hunter	7	Gladiator's Longbow	Epic	1	0
+GvG	Hunter	7	Gahz'rilla	Legendary	0	0
+Classic	Hunter	8	King Krush	Legendary	0	0
+Classic	Mage	1	Arcane Missiles	Basic	2	2
+Classic	Mage	1	Mirror Image	Basic	2	2
+Classic	Mage	2	Arcane Explosion	Basic	2	2
+Classic	Mage	2	Frostbolt	Basic	2	2
+Classic	Mage	3	Arcane Intellect	Basic	2	2
+Classic	Mage	3	Frost Nova	Basic	2	2
+Classic	Mage	4	Fireball	Basic	2	2
+Classic	Mage	4	Polymorph	Basic	2	2
+Classic	Mage	4	Water Elemental	Basic	2	2
+Classic	Mage	7	Flamestrike	Basic	2	2
+Classic	Mage	1	Ice Lance	Common	2	0
+Classic	Mage	1	Mana Wyrm	Common	2	0
+GvG	Mage	2	Flamecannon	Common	2	0
+GvG	Mage	2	Snowchugger	Common	2	1
+Classic	Mage	2	Sorcerer's Apprentice	Common	2	0
+Naxx	Mage	3	Duplicate	Common	2	0
+Classic	Mage	3	Ice Barrier	Common	2	0
+Classic	Mage	3	Mirror Entity	Common	2	1
+Classic	Mage	4	Cone of Cold	Common	2	1
+GvG	Mage	2	Unstable Portal	Rare	2	0
+Classic	Mage	3	Counterspell	Rare	2	0
+Classic	Mage	3	Vaporize	Rare	2	0
+Classic	Mage	3	Kirin Tor Mage	Rare	2	0
+GvG	Mage	3	Soot Spewer	Rare	2	0
+Classic	Mage	4	Ethereal Arcanist	Rare	2	0
+GvG	Mage	4	Goblin Blastmage	Rare	2	0
+Classic	Mage	6	Blizzard	Rare	2	0
+Classic	Mage	3	Ice Block	Epic	2	0
+Classic	Mage	3	Spellbender	Epic	0	0
+GvG	Mage	4	Echo of Medivh	Epic	2	0
+GvG	Mage	4	Wee Spellstopper	Epic	2	0
+Classic	Mage	8	Pyroblast	Epic	2	0
+Classic	Mage	7	Archmage Antonidas	Legendary	1	0
+GvG	Mage	7	Flame Leviathan	Legendary	0	0
+Classic	Paladin	1	Light's Justice	Basic	2	2
+Classic	Paladin	1	Blessing of Might	Basic	2	2
+Classic	Paladin	1	Hand of Protection	Basic	2	2
+Classic	Paladin	1	Humility	Basic	2	2
+Classic	Paladin	2	Holy Light	Basic	2	2
+Classic	Paladin	4	Truesilver Champion	Basic	2	2
+Classic	Paladin	4	Blessing of Kings	Basic	2	2
+Classic	Paladin	4	Consecration	Basic	2	2
+Classic	Paladin	4	Hammer of Wrath	Basic	2	2
+Classic	Paladin	7	Guardian of Kings	Basic	2	2
+Naxx	Paladin	1	Avenge	Common	2	0
+Classic	Paladin	1	Blessing of Wisdom	Common	2	1
+Classic	Paladin	1	Eye for an Eye	Common	2	0
+Classic	Paladin	1	Noble Sacrifice	Common	2	1
+Classic	Paladin	1	Redemption	Common	2	0
+Classic	Paladin	1	Repentance	Common	2	1
+GvG	Paladin	2	Seal of Light	Common	2	0
+Classic	Paladin	2	Argent Protector	Common	2	0
+GvG	Paladin	2	Shielded Minibot	Common	2	0
+Classic	Paladin	2	Equality	Rare	2	0
+Classic	Paladin	3	Divine Favor	Rare	2	0
+GvG	Paladin	3	Muster for Battle	Rare	0	0
+Classic	Paladin	3	Aldor Peacekeeper	Rare	2	1
+GvG	Paladin	3	Scarlet Purifier	Rare	2	2
+Classic	Paladin	5	Blessed Champion	Rare	2	1
+Classic	Paladin	5	Holy Wrath	Rare	2	0
+GvG	Paladin	5	Cobalt Guardian	Rare	2	1
+GvG	Paladin	3	Coghammer	Epic	0	0
+Classic	Paladin	3	Sword of Justice	Epic	2	0
+GvG	Paladin	5	Quartermaster	Epic	0	0
+Classic	Paladin	6	Avenging Wrath	Epic	2	0
+Classic	Paladin	8	Lay on Hands	Epic	1	0
+GvG	Paladin	5	Bolvar Fordragon	Legendary	0	0
+Classic	Paladin	8	Tirion Fordring	Legendary	0	0
+Classic	Priest	1	Holy Smite	Basic	2	2
+Classic	Priest	1	Mind Vision	Basic	2	0
+Classic	Priest	1	Power Word: Shield	Basic	2	0
+Classic	Priest	1	Northshire Cleric	Basic	2	0
+Classic	Priest	2	Divine Spirit	Basic	2	2
+Classic	Priest	2	Mind Blast	Basic	2	2
+Classic	Priest	2	Shadow Word: Pain	Basic	2	2
+Classic	Priest	3	Shadow Word: Death	Basic	2	2
+Classic	Priest	5	Holy Nova	Basic	2	2
+Classic	Priest	10	Mind Control	Basic	2	2
+Classic	Priest	0	Circle of Healing	Common	2	1
+Classic	Priest	0	Silence	Common	2	0
+Classic	Priest	1	Inner Fire	Common	2	1
+Classic	Priest	2	Shrinkmeister	Common	2	0
+Classic	Priest	3	Thoughtsteal	Common	2	0
+GvG	Priest	3	Velen's Chosen	Common	2	1
+Naxx	Priest	3	Dark Cultist	Common	2	0
+Classic	Priest	4	Lightspawn	Common	2	1
+Classic	Priest	6	Temple Enforcer	Common	2	0
+GvG	Priest	1	Light of the Naaru	Rare	2	2
+Classic	Priest	2	Lightwell	Rare	2	1
+GvG	Priest	2	Shadowboxer	Rare	2	0
+Classic	Priest	4	Mass Dispel	Rare	2	0
+Classic	Priest	4	Shadow Madness	Rare	2	0
+Classic	Priest	4	Auchenai Soulpriest	Rare	2	1
+GvG	Priest	5	Upgraded Repair Bot	Rare	2	0
+Classic	Priest	6	Holy Fire	Rare	2	2
+GvG	Priest	1	Shadowbomber	Epic	2	0
+Classic	Priest	3	Shadowform	Epic	0	0
+Classic	Priest	4	Mindgames	Epic	1	1
+GvG	Priest	6	Lightbomb	Epic	0	0
+Classic	Priest	6	Cabal Shadow Priest	Epic	2	0
+GvG	Priest	5	Vol'jin	Legendary	1	0
+Classic	Priest	7	Prophet Velen	Legendary	0	0
+Classic	Rogue	0	Backstab	Basic	2	2
+Classic	Rogue	1	Deadly Poison	Basic	2	2
+Classic	Rogue	1	Sinister Strike	Basic	2	2
+Classic	Rogue	2	Sap	Basic	2	2
+Classic	Rogue	2	Shiv	Basic	2	2
+Classic	Rogue	3	Fan of Knives	Basic	2	2
+Classic	Rogue	5	Assassin's Blade	Basic	2	2
+Classic	Rogue	5	Assassinate	Basic	2	1
+Classic	Rogue	6	Vanish	Basic	2	2
+Classic	Rogue	7	Sprint	Basic	2	0
+Classic	Rogue	0	Shadowstep	Common	2	0
+Classic	Rogue	1	Cold Blood	Common	2	1
+Classic	Rogue	1	Conceal	Common	2	0
+Classic	Rogue	2	Betrayal	Common	2	0
+Classic	Rogue	2	Eviscerate	Common	2	1
+Classic	Rogue	2	Defias Ringleader	Common	2	0
+GvG	Rogue	2	Goblin Auto-Barber	Common	2	0
+GvG	Rogue	4	Tinker's Sharpsword Oil	Common	2	0
+Naxx	Rogue	4	Anub'ar Ambusher	Common	2	0
+GvG	Rogue	1	One-Eyed Cheat	Rare	1	0
+Classic	Rogue	2	Blade Flurry	Rare	2	1
+Classic	Rogue	3	Perdition's Blade	Rare	2	0
+Classic	Rogue	3	Headcrack	Rare	2	0
+GvG	Rogue	3	Iron Sensei	Rare	2	0
+Classic	Rogue	3	SI:7 Agent	Rare	2	0
+Classic	Rogue	4	Master of Disguise	Rare	2	0
+Classic	Rogue	5	Ogre Ninja	Rare	2	0
+Classic	Rogue	0	Preparation	Epic	2	0
+Classic	Rogue	2	Patient Assassin	Epic	2	0
+GvG	Rogue	3	Cogmaster's Wrench	Epic	2	0
+GvG	Rogue	4	Sabotage	Epic	0	0
+Classic	Rogue	6	Kidnapper	Epic	0	0
+Classic	Rogue	3	Edwin VanCleef	Legendary	1	0
+GvG	Rogue	6	Trade Prince Gallywix	Legendary	0	0
+Classic	Shaman	0	Ancestral Healing	Basic	2	2
+Classic	Shaman	0	Totemic Might	Basic	2	2
+Classic	Shaman	1	Frost Shock	Basic	2	2
+Classic	Shaman	1	Rockbiter Weapon	Basic	2	2
+Classic	Shaman	2	Windfury	Basic	2	2
+Classic	Shaman	2	Flametongue Totem	Basic	2	2
+Classic	Shaman	3	Hex	Basic	2	2
+Classic	Shaman	4	Windspeaker	Basic	2	2
+Classic	Shaman	5	Bloodlust	Basic	2	2
+Classic	Shaman	6	Fire Elemental	Basic	2	2
+Classic	Shaman	1	Earth Shock	Common	2	0
+Classic	Shaman	1	Forked Lightning	Common	2	1
+Classic	Shaman	1	Lightning Bolt	Common	2	0
+Classic	Shaman	1	Dust Devil	Common	2	0
+Classic	Shaman	2	Stormforged Axe	Common	2	0
+GvG	Shaman	2	Crackle	Common	2	1
+Naxx	Shaman	2	Reincarnate	Common	2	0
+GvG	Shaman	2	Whirling Zap-o-matic	Common	2	0
+Classic	Shaman	3	Unbound Elemental	Common	2	0
+Classic	Shaman	2	Ancestral Spirit	Rare	2	1
+GvG	Shaman	2	Vitality Totem	Rare	2	0
+GvG	Shaman	3	Powermace	Rare	2	0
+Classic	Shaman	3	Feral Spirit	Rare	2	0
+Classic	Shaman	3	Lava Burst	Rare	2	2
+Classic	Shaman	3	Lightning Storm	Rare	2	1
+Classic	Shaman	3	Mana Tide Totem	Rare	2	0
+GvG	Shaman	4	Dunemaul Shaman	Rare	2	0
+Classic	Shaman	3	Far Sight	Epic	2	0
+GvG	Shaman	4	Ancestor's Call	Epic	1	0
+GvG	Shaman	4	Siltfin Spiritwalker	Epic	2	0
+Classic	Shaman	5	Doomhammer	Epic	2	1
+Classic	Shaman	5	Earth Elemental	Epic	2	0
+GvG	Shaman	7	Neptulon	Legendary	0	0
+Classic	Shaman	8	Al'Akir the Windlord	Legendary	1	0
+Classic	Warlock	0	Sacrificial Pact	Basic	2	2
+Classic	Warlock	1	Corruption	Basic	2	2
+Classic	Warlock	1	Mortal Coil	Basic	2	2
+Classic	Warlock	1	Soulfire	Basic	2	2
+Classic	Warlock	1	Voidwalker	Basic	2	2
+Classic	Warlock	2	Succubus	Basic	2	2
+Classic	Warlock	3	Drain Life	Basic	2	2
+Classic	Warlock	3	Shadow Bolt	Basic	2	2
+Classic	Warlock	4	Hellfire	Basic	2	2
+Classic	Warlock	6	Dread Infernal	Basic	2	2
+Classic	Warlock	1	Power Overwhelming	Common	2	1
+Classic	Warlock	1	Blood Imp	Common	2	0
+Classic	Warlock	1	Flame Imp	Common	2	0
+Classic	Warlock	2	Darkbomb	Common	2	0
+Classic	Warlock	2	Demonfire	Common	2	0
+Classic	Warlock	3	Sense Demons	Common	2	0
+Classic	Warlock	4	Summoning Portal	Common	2	1
+Naxx	Warlock	4	Voidcaller	Common	2	0
+GvG	Warlock	5	Floating Watcher	Common	2	0
+GvG	Warlock	2	Mistress of Pain	Rare	0	0
+Classic	Warlock	3	Felguard	Rare	2	0
+Classic	Warlock	3	Void Terror	Rare	2	0
+GvG	Warlock	4	Imp-losion	Rare	2	0
+Classic	Warlock	4	Shadowflame	Rare	2	0
+GvG	Warlock	4	Fel Cannon	Rare	2	0
+Classic	Warlock	5	Doomguard	Rare	2	0
+Classic	Warlock	6	Siphon Soul	Rare	2	1
+Classic	Warlock	4	Pit Lord	Epic	1	0
+Classic	Warlock	5	Bane of Doom	Epic	2	0
+GvG	Warlock	5	Demonheart	Epic	1	0
+GvG	Warlock	6	Anima Golem	Epic	1	1
+Classic	Warlock	8	Twisting Nether	Epic	2	0
+Classic	Warlock	9	Lord Jaraxxus	Legendary	0	0
+GvG	Warlock	9	Mal'Ganis	Legendary	0	0
+Classic	Warrior	1	Execute	Basic	2	2
+Classic	Warrior	1	Whirlwind	Basic	2	2
+Classic	Warrior	2	Fiery War Axe	Basic	2	2
+Classic	Warrior	2	Cleave	Basic	2	2
+Classic	Warrior	2	Heroic Strike	Basic	2	2
+Classic	Warrior	3	Charge	Basic	2	2
+Classic	Warrior	3	Shield Block	Basic	2	2
+Classic	Warrior	3	Warsong Commander	Basic	2	2
+Classic	Warrior	4	Kor'kron Elite	Basic	2	2
+Classic	Warrior	5	Arcanite Reaper	Basic	2	0
+Classic	Warrior	0	Inner Rage	Common	2	0
+GvG	Warrior	1	Warbot	Common	2	1
+Classic	Warrior	2	Battle Rage	Common	2	0
+Classic	Warrior	2	Rampage	Common	2	2
+Classic	Warrior	2	Slam	Common	2	0
+Classic	Warrior	2	Cruel Taskmaster	Common	2	0
+GvG	Warrior	3	Ogre Warmaul	Common	2	0
+Naxx	Warrior	4	Death's Bite	Common	2	0
+Classic	Warrior	4	Arathi Weaponsmith	Common	2	0
+Classic	Warrior	1	Upgrade!	Rare	2	0
+Classic	Warrior	2	Commanding Shout	Rare	2	0
+Classic	Warrior	2	Armorsmith	Rare	2	0
+Classic	Warrior	3	Frothing Berserker	Rare	2	0
+Classic	Warrior	4	Mortal Strike	Rare	2	0
+GvG	Warrior	4	Screwjank Clunker	Rare	2	0
+Classic	Warrior	5	Siege Engine	Rare	2	0
+GvG	Warrior	6	Shieldmaiden	Rare	2	1
+Classic	Warrior	1	Shield Slam	Epic	2	0
+GvG	Warrior	3	Bouncing Blade	Epic	2	0
+Classic	Warrior	5	Brawl	Epic	1	0
+Classic	Warrior	7	Gorehowl	Epic	1	0
+GvG	Warrior	7	Crush	Epic	0	0
+GvG	Warrior	5	Iron Juggernaut	Legendary	0	0
+Classic	Warrior	8	Grommash Hellscream	Legendary	0	0

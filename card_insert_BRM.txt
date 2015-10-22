@@ -1,0 +1,31 @@
+BRM	Neutral	5	Blackwing Corruptor	Common	0	0
+BRM	Neutral	3	Blackwing Technician	Common	0	0
+BRM	Neutral	4	Dragonkin Sorcerer	Common	0	0
+BRM	Neutral	6	Drakonid Crusher	Common	0	0
+BRM	Neutral	4	Hungry Dragon	Common	0	0
+BRM	Neutral	6	Volcanic Drake	Common	0	0
+BRM	Neutral	1	Dragon Egg	Rare	0	0
+BRM	Neutral	5	Grim Patron	Rare	0	0
+BRM	Neutral	8	Chromaggus	Legendary	0	0
+BRM	Neutral	6	Emperor Thaurissan	Legendary	0	0
+BRM	Neutral	9	Majordomo Executus	Legendary	0	0
+BRM	Neutral	9	Nefarian	Legendary	0	0
+BRM	Neutral	7	Rend Blackhand	Legendary	0	0
+BRM	Druid	3	Druid of the Flame	Common	0	0
+BRM	Druid	9	Volcanic Lumberer	Rare	0	0
+BRM	Hunter	2	Quick Shot	Common	0	0
+BRM	Hunter	4	Core Rager	Rare	0	0
+BRM	Mage	5	Dragon's Breath	Common	0	0
+BRM	Mage	3	Flamewaker	Rare	0	0
+BRM	Paladin	5	Solemn Vigil	Common	0	0
+BRM	Paladin	5	Dragon Consort	Rare	0	0
+BRM	Priest	1	Twilight Whelp	Common	0	0
+BRM	Priest	2	Resurrect	Rare	0	0
+BRM	Rogue	2	Gang Up	Common	0	0
+BRM	Rogue	5	Dark Iron Skulker	Rare	0	0
+BRM	Shaman	4	Firegaurd Destroyer	Common	0	0
+BRM	Shaman	2	Lava Shock	Rare	0	0
+BRM	Warlock	3	Img Gang Boss	Common	0	0
+BRM	Warlock	3	Demonwrath	Rare	0	0
+BRM	Warrior	4	Axe Flinger	Common	0	0
+BRM	Warrior	2	Revenge	Rare	0	0
