@@ -5,7 +5,7 @@ class Database2 extends mysqli
 
 	public function __construct()
 	{
-		parent::__construct( 'localhost', 'khansen',  '123', 'hs_stats' );
+		parent::__construct( 'localhost', 'username',  'password', 'hs_stats' );
 
 		if ( mysqli_connect_error() )
 		{
